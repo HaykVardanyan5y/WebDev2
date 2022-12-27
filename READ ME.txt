@@ -1,0 +1,1 @@
+xndrum em bolor php faileri mej texadreq "mysqli_connect()"-i popoxakanneri hamapatasxan arjeqnery

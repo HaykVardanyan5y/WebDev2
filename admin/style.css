@@ -1,0 +1,31 @@
+body{
+    overflow-x: hidden;
+}
+.header .row{
+    box-shadow: 0 0 5px 1px black;
+}
+.header{
+    height: 60px;
+}
+.he{
+    border-right: 1px solid black;
+}
+.he,.he *{
+    color: green;
+    padding-bottom: 0.2%;
+    text-align: center;
+    text-decoration: none;
+    line-height: 200%;
+}
+.admin{
+    display: flex;
+}
+.list{
+    margin-left: auto;
+}
+tr,td{
+    border: 1px black solid;
+}
+.coontainer{
+    margin-left: 5%;
+}
